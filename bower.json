@@ -1,0 +1,21 @@
+{
+  "name": "Alicia",
+  "authors": [
+    "Noel Rivas Cárdenas <noel@matrushka.com.mx>"
+  ],
+  "description": "You are falling, Alicia",
+  "main": "",
+  "license": "MIT",
+  "homepage": "http://www.matrushka.com.mx",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three": "*"
+  }
+}
